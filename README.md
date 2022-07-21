@@ -23,7 +23,8 @@ IDE used : Programiz Online SQL Editor
 4. For Train name VARCHAR is used.
 
 
-**IV. Demo **
+**IV. Demo**
+
 
 ![RAILWAY DB_1](https://user-images.githubusercontent.com/99798157/180181889-5f8eedb8-7b25-445c-93b9-f29aa1be9b36.JPG)
 
