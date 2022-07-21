@@ -19,7 +19,7 @@ III. Workflow
 
 1. This is simple SQL table that shows Train details.
 2. Train name, number, arrival & depature time of the train are provided inside a table.
-3. Few Data types were used, For Train arrival & depature time and train number & seat number INT Data type is used.
+3. Few Data types were used, For Train arrival & depature time, train number & seat number INT Data type is used.
 4. For Train name VARCHAR is used.
 
 IV. Demo 
