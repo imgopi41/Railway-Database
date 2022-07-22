@@ -12,7 +12,7 @@ where used in this table.
 
 Language: Structured Query Language
 
-IDE used : Programiz Online SQL Editor
+IDE used : Programiz online SQL Editor and JDoodle online compiler
 
 
 **III. Workflow**
@@ -39,8 +39,7 @@ with unique data.
 
 
 **VI. You can check code here:**
-
-jdoodle.com/ia/tsU
+https://www.jdoodle.com/iembed/v0/tsU
 
 
 
