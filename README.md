@@ -33,7 +33,8 @@ IDE used : Programiz Online SQL Editor
 
 **V. Application & Future enhancements****
 
-This Railway Database can be implemented with extra data.
+This Railway Database can be further implemented with extra rows and columns
+with unique data.
 
 
 
