@@ -21,6 +21,7 @@ IDE used : Programiz Online SQL Editor
 2. Train name, number, arrival & depature time of the train are provided inside a table.
 3. Few Data types were used, For Train arrival & depature time, train number & seat number INT Data type is used.
 4. For Train name VARCHAR is used.
+5. Every row and column is displayed in the table.
 
 
 **IV. Demo**
