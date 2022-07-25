@@ -31,7 +31,7 @@ IDE used : Programiz online SQL Editor and JDoodle online compiler
 
 
 
-**V. Application & Future enhancements****
+**V. Application & Future enhancements**
 
 This Railway Database can be further implemented with extra rows and columns
 with unique data.
